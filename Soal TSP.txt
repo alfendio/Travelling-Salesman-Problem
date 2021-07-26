@@ -1,5 +1,4 @@
 1. Di negara api terdapat 7 kota, jarak antar kota bebas asal masuk akal (misal dari kota a ke b 6km berarti dari kota b ke a 6km)
-
 2. Berikan 3 output berupa
 a. Jalur terpendek
 b. Jalur terpanjang
